@@ -80,4 +80,4 @@ This project implements a basic Network File System (NFS) using a client-server 
 
 ### In create file or delete file the extension does not matter 
 - If x.txt is present then we cannot create x.c
-### Colloboraters : Kashik,Ved,Akshitha,Vagdevi
+### Collaborators : Kashik,Ved,Akshitha,Vagdevi
