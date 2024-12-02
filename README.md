@@ -79,4 +79,5 @@ This project implements a basic Network File System (NFS) using a client-server 
 ### The deletion does not happen outside parent directory
 
 ### In create file or delete file the extension does not matter 
-- If x.txt is present then we cannot create x.c 
+- If x.txt is present then we cannot create x.c
+### Collaborators :Kashik,Ved,Akshitha,Vagdevi
